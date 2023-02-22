@@ -1,4 +1,4 @@
-### Hi there 👋, My Name is Manik Sheak
+### Hi there 👋, My Name is Manik Sheikh
 #### I am Front End Developer
 ![I am Front End Developer](https://media.licdn.com/dms/image/D5616AQGRqUnjDyuVfw/profile-displaybackgroundimage-shrink_350_1400/0/1676995577658?e=1682553600&v=beta&t=G-a2KhkPPM84lSSMH8hWt7D6RDCi59QC1fKVPPa5fmo)
 
