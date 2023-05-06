@@ -9,7 +9,6 @@ Skills: HTML / CSS/SASS / JAVASCRIPT / VUE.js / Nuxt.Js / FIREBASE / GIT & GITHU
 
 - 🔭 I’m currently working on CONNEKT STUDIO 
 - 🌱 I’m currently learning InternShip 
-- 👯 I’m looking to collaborate on Apollo-hms-hospital 
 - 📫 How to reach me: https://twitter.com/home 
 - ⚡ Fun fact: I am a huge fan of muvi 
 
