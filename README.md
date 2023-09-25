@@ -13,7 +13,7 @@ Skills: HTML / CSS/SASS / JAVASCRIPT / VUE.js / Nuxt.Js / FIREBASE / GIT & GITHU
 
 - 🔭 I’m currently working on CONNEKT STUDIO 
 - 🌱 Ping me about JavaScript, Vue, Firebase, Figma
-- 📫 How to reach me: [update the new profile ](https://www.linkedin.com/in/manik-sheikh-02b322292/)
+- 📫 How to reach me: (https://www.linkedin.com/in/manik-sheikh-02b322292/)
 - ⚡ Fun fact: I am a huge fan of muvi 
 
 <h3 align="left">Languages and Tools:</h3>
