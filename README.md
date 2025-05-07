@@ -1,8 +1,6 @@
 ### Hi there 👋, My Name is Manik Sheikh
 #### I am Front End Developer
 
-![Banner](https://x.com/dev_man50733/header_photo)
-
 I am a Front End developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with Vue.js & Nuxt.js. I also have experience working with HTML, CSS, Sass,JavaScript, Vue Js, Nuxt Js, Firebase. git & github. i am familiar at reactc.js, Node Js , MongoDb
 
 
