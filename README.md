@@ -6,10 +6,10 @@
 
 
 
-I am a Front End developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with Vue.js & Nuxt.js. I also have experience working with HTML, CSS, Sass,JavaScript, Vue Js, Nuxt Js, Firebase. git & github. i am familiar at reactc.js, Node Js.
+I am a Front End developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with Vue.js & Nuxt.js. I also have experience working with HTML, CSS, Sass,JavaScript, Vue Js, Nuxt Js, Firebase. git & github. i am familiar at reactc.js, Node Js , MongoDb
 
 
-Skills: HTML / CSS/ SASS / JAVASCRIPT / Tailwindcss / Shadcn-vue / Coursor.ai / VUE.js / Nuxt.Js / FIREBASE / GIT & GITHUB / Node Js
+Skills: HTML / CSS/ SASS / JAVASCRIPT / Tailwindcss / Shadcn-vue / Coursor.ai / VUE.js / Nuxt.Js / FIREBASE / GIT & GITHUB / Node Js / MongoDb
 
 - 🔭 I’m currently working on CONNEKT STUDIO 
 - 🌱 Ping me about JavaScript, Vue, Nuxt, Firebase, Figma
