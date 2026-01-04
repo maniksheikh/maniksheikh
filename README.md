@@ -11,6 +11,7 @@ Skills: HTML / CSS/ SASS / JAVASCRIPT / Tailwindcss / Shadcn-vue / Coursor.ai / 
 
 - 🔭 I’m currently working on CONNEKT STUDIO 
 - 🌱 Ping me about JavaScript, Vue, Nuxt, Firebase, Figma
+-  My Portfolio: (https://my-personal-portfolio-8i5.pages.dev/)
 - 📫 How to reach me: ([https://www.linkedin.com/in/manik-sheikh-02b322292/](https://www.linkedin.com/in/muhammad-manik-sheikh-6ab92433b/))
 - ⚡ Fun fact: I am a huge fan of muvi 
 
